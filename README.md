@@ -1,1 +1,2 @@
 # Digital_Image_Processing_Labs
+These lab exercises were completed for the course Digital Image Processing at the TU Berlin Computer Vision. The course contents nclude image representation in frequency domain, Fourier transform, sampling theorem, Filtering, Wiener Filter, image enhancement, edge detection, Hough transform, segmentation, interest operators, mathematical morphology, vectorisation, texture, skeletonization, medical axis and distance transform, contour / line tracing and -smoothing, Gestalt psychology, grouping.
